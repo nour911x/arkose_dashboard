@@ -43,11 +43,10 @@
   Structure du projet
 
   arkose-dashboard/
-  ├── arkose_dashboard.py    # Code principal du dashboard
-  ├── requirements.txt       # Dépendances Python
-  ├── README.md             # Documentation
-  └── data/
-      └── ARKOSE_donnees_2025.csv  # Données de fréquentation
+* arkose_dashboard.py    # Code principal du dashboard
+* requirements.txt       # Dépendances Python
+* README.md             # Documentation
+*  data/ ARKOSE_donnees_2025.csv  # Données de fréquentation
 
   Aperçu
 
